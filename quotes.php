@@ -38,8 +38,7 @@ Dolly'll never go away again";
 }
 
 $chosen = hello_dolly_get_lyric();
-?>
-<!DOCTYPE html>
+?><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
